@@ -1,5 +1,3 @@
-console.log("Client side javascript file is loaded!");
-
 //const to store the viarable
 const weatherForm = document.querySelector("form"); //form get from index
 const search = document.querySelector("input");
